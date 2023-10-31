@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717178563118",
+    "project_id": "lot-to-do-5adfa",
+    "storage_bucket": "lot-to-do-5adfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717178563118:android:82b7e7db2e1bd0221e8dbf",
+        "android_client_info": {
+          "package_name": "com.example.lot_to_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM1FQt-gmis4Fbruz771pEDrc3U3TH-3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
