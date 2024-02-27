@@ -14,3 +14,6 @@ In addition to managing your tasks, this app provides real-time location status 
 3)Location-Based Task Reminders:
 
 Simplify your task management further with location-based reminders. Simply input the coordinates of a particular location, and when you're within a 1 km radius of that spot, your phone will promptly notify you. No more missing essential tasks when you're in the right place.
+
+
+More details about the project given at https://github.com/namanrao1/lot_to_do-flutterproject/blob/master/project-details.pdf
